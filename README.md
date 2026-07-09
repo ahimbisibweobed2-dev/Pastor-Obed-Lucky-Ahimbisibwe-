@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<Index.html >
+<head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Pastor Obed Lucky Ahimbisibwe</title>
@@ -95,4 +95,4 @@ footer{text-align:center;background:#000;padding:25px;color:#ccc}
 </footer>
 
 </body>
-
+</html>
